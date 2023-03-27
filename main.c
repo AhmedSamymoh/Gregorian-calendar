@@ -6,7 +6,7 @@ int calculateStartingDay(int year, int month, int monthDays[]);
 int main() {
     int year, month, day, daysInMonth, weekDay, startingDay;
 
-    printf("*************************  Coded by :Ahmed Samy Mohamed Mohamed - 20010099  *************************\n");
+    printf("*************************  Coded by :Ahmed Samy Mohamed Mohamed *************************\n");
     printf("*************************  As an assignment for Prof : Mohammed El Habrouk  *************************\n\n");
 
     printf("Please enter the year: ");
